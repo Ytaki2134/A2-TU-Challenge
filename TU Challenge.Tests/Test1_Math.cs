@@ -224,6 +224,5 @@ namespace TU_Challenge
                 Assert.IsTrue(result[i] > result[i + 1]);
             }
         }
-
     }
 }
